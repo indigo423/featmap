@@ -61,3 +61,4 @@ _testmain.go
 workspace.xml
 featmap
 **/bindata.go
+webapp/package-lock.json
